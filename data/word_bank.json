@@ -1,0 +1,402 @@
+[
+  {
+    "w": "salient",
+    "p": "adj.",
+    "m": "Especially important or noticeable.",
+    "c": ["salient point", "salient feature", "most salient"],
+    "r": "public · academic",
+    "e": "The most salient finding was the uneven pace of recovery."
+  },
+  {
+    "w": "ruminate",
+    "p": "verb",
+    "m": "To think deeply about something for some time.",
+    "c": ["ruminate on", "ruminate over"],
+    "r": "conversation · public",
+    "e": "I have been ruminating on that question for several days."
+  },
+  {
+    "w": "ambivalent",
+    "p": "adj.",
+    "m": "Having mixed or conflicting feelings about something.",
+    "c": ["ambivalent about", "deeply ambivalent"],
+    "r": "conversation · public · academic",
+    "e": "Residents remained ambivalent about relocation."
+  },
+  {
+    "w": "grapple with",
+    "p": "phrase",
+    "m": "To struggle seriously with a difficult question or problem.",
+    "c": ["grapple with a problem", "grapple with uncertainty"],
+    "r": "conversation · public · academic",
+    "e": "Cities continue to grapple with the long-term effects of disasters."
+  },
+  {
+    "w": "ostensibly",
+    "p": "adv.",
+    "m": "Apparently or according to what is claimed, though reality may differ.",
+    "c": ["ostensibly designed", "ostensibly intended"],
+    "r": "public · academic",
+    "e": "The policy was ostensibly designed to speed up recovery."
+  },
+  {
+    "w": "obscure",
+    "p": "verb",
+    "m": "To make something less clear, visible, or understood.",
+    "c": ["obscure differences", "obscure the role"],
+    "r": "public · academic",
+    "e": "Aggregate statistics can obscure important differences between households."
+  },
+  {
+    "w": "tenuous",
+    "p": "adj.",
+    "m": "Weak, uncertain, or not strongly supported.",
+    "c": ["tenuous link", "tenuous evidence"],
+    "r": "public · academic · GRE",
+    "e": "The evidence for a causal relationship remains tenuous."
+  },
+  {
+    "w": "perfunctory",
+    "p": "adj.",
+    "m": "Done with little care or interest, usually because it is required.",
+    "c": ["perfunctory apology", "perfunctory consultation"],
+    "r": "public · academic · GRE",
+    "e": "The consultation process was largely perfunctory."
+  },
+  {
+    "w": "lucid",
+    "p": "adj.",
+    "m": "Clear and easy to understand.",
+    "c": ["lucid explanation", "lucid account"],
+    "r": "public · academic · GRE",
+    "e": "Her explanation was concise and lucid."
+  },
+  {
+    "w": "conflate",
+    "p": "verb",
+    "m": "To treat two different things as if they were the same.",
+    "c": ["conflate two issues", "avoid conflating"],
+    "r": "academic · GRE",
+    "e": "The analysis should not conflate reconstruction with recovery."
+  },
+  {
+    "w": "contingent",
+    "p": "adj.",
+    "m": "Dependent on particular conditions or circumstances.",
+    "c": ["contingent on", "contingent outcome"],
+    "r": "academic · GRE",
+    "e": "Recovery outcomes are contingent on institutions and resources."
+  },
+  {
+    "w": "underscore",
+    "p": "verb",
+    "m": "To emphasize the importance of something.",
+    "c": ["underscore the need", "underscore a point"],
+    "r": "public · academic",
+    "e": "The findings underscore the importance of local capacity."
+  },
+  {
+    "w": "plausible",
+    "p": "adj.",
+    "m": "Reasonable or believable, though not necessarily proven.",
+    "c": ["plausible explanation", "plausible account"],
+    "r": "public · academic",
+    "e": "The report offers a plausible explanation for the delay."
+  },
+  {
+    "w": "cogent",
+    "p": "adj.",
+    "m": "Clear, logical, and convincing.",
+    "c": ["cogent argument", "cogent explanation"],
+    "r": "public · academic · GRE",
+    "e": "She made a cogent case for revising the policy."
+  },
+  {
+    "w": "nuanced",
+    "p": "adj.",
+    "m": "Showing careful attention to important differences or complexity.",
+    "c": ["nuanced account", "nuanced view"],
+    "r": "public · academic",
+    "e": "The study offers a more nuanced account of recovery."
+  },
+  {
+    "w": "arbitrary",
+    "p": "adj.",
+    "m": "Based on no clear principle or reason.",
+    "c": ["arbitrary cutoff", "arbitrary decision"],
+    "r": "public · academic · GRE",
+    "e": "The eligibility threshold appeared arbitrary."
+  },
+  {
+    "w": "pragmatic",
+    "p": "adj.",
+    "m": "Focused on what is workable in practice.",
+    "c": ["pragmatic approach", "pragmatic solution"],
+    "r": "conversation · public · academic",
+    "e": "The team adopted a pragmatic approach to data collection."
+  },
+  {
+    "w": "pervasive",
+    "p": "adj.",
+    "m": "Present or spreading widely throughout something.",
+    "c": ["pervasive problem", "pervasive influence"],
+    "r": "public · academic · GRE",
+    "e": "Distrust was pervasive across the affected communities."
+  },
+  {
+    "w": "implicit",
+    "p": "adj.",
+    "m": "Suggested or understood without being directly stated.",
+    "c": ["implicit assumption", "implicit bias"],
+    "r": "public · academic · GRE",
+    "e": "The model rests on an implicit assumption about household behavior."
+  },
+  {
+    "w": "explicit",
+    "p": "adj.",
+    "m": "Clearly and directly stated.",
+    "c": ["explicit goal", "make explicit"],
+    "r": "conversation · public · academic",
+    "e": "The policy should make its priorities explicit."
+  },
+  {
+    "w": "substantiate",
+    "p": "verb",
+    "m": "To support a claim with evidence.",
+    "c": ["substantiate a claim", "substantiate an argument"],
+    "r": "academic · GRE",
+    "e": "The available data do not substantiate the strongest claim."
+  },
+  {
+    "w": "infer",
+    "p": "verb",
+    "m": "To reach a conclusion from evidence rather than direct statement.",
+    "c": ["infer from", "reasonably infer"],
+    "r": "public · academic",
+    "e": "We should not infer intent from the outcome alone."
+  },
+  {
+    "w": "premise",
+    "p": "noun",
+    "m": "A starting assumption or idea on which an argument is based.",
+    "c": ["basic premise", "question the premise"],
+    "r": "public · academic",
+    "e": "The argument depends on a questionable premise."
+  },
+  {
+    "w": "exacerbate",
+    "p": "verb",
+    "m": "To make a problem or bad situation worse.",
+    "c": ["exacerbate inequality", "exacerbate tensions"],
+    "r": "public · academic · GRE",
+    "e": "Delays can exacerbate existing inequalities."
+  },
+  {
+    "w": "catalyze",
+    "p": "verb",
+    "m": "To cause or accelerate significant change.",
+    "c": ["catalyze reform", "catalyze action"],
+    "r": "public · academic",
+    "e": "The crisis helped catalyze institutional reform."
+  },
+  {
+    "w": "erode",
+    "p": "verb",
+    "m": "To gradually weaken or reduce.",
+    "c": ["erode trust", "erode support"],
+    "r": "conversation · public · academic",
+    "e": "Repeated delays can erode public trust."
+  },
+  {
+    "w": "reinforce",
+    "p": "verb",
+    "m": "To strengthen an existing pattern, idea, or effect.",
+    "c": ["reinforce inequality", "reinforce a pattern"],
+    "r": "public · academic",
+    "e": "Unequal access to credit can reinforce recovery gaps."
+  },
+  {
+    "w": "mediate",
+    "p": "verb",
+    "m": "To influence or help explain the relationship between two things.",
+    "c": ["mediate a relationship", "mediate effects"],
+    "r": "academic",
+    "e": "Local institutions may mediate the effect of national policy."
+  },
+  {
+    "w": "divergent",
+    "p": "adj.",
+    "m": "Developing or moving in different directions.",
+    "c": ["divergent outcomes", "divergent views"],
+    "r": "public · academic",
+    "e": "The two communities experienced divergent recovery paths."
+  },
+  {
+    "w": "disproportionate",
+    "p": "adj.",
+    "m": "Too large or small in relation to something else.",
+    "c": ["disproportionate burden", "disproportionate impact"],
+    "r": "public · academic",
+    "e": "Low-income households carried a disproportionate burden."
+  },
+  {
+    "w": "fraught",
+    "p": "adj.",
+    "m": "Filled with difficulty, tension, or risk.",
+    "c": ["fraught process", "fraught relationship"],
+    "r": "conversation · public · academic",
+    "e": "Relocation can be a politically fraught process."
+  },
+  {
+    "w": "reckon with",
+    "p": "phrase",
+    "m": "To seriously confront or deal with a difficult fact or problem.",
+    "c": ["reckon with history", "reckon with consequences"],
+    "r": "conversation · public",
+    "e": "Institutions must reckon with the long-term consequences of displacement."
+  },
+  {
+    "w": "poignant",
+    "p": "adj.",
+    "m": "Producing a strong feeling of sadness or reflection.",
+    "c": ["poignant reminder", "poignant moment"],
+    "r": "public · GRE",
+    "e": "The abandoned school became a poignant reminder of the flood."
+  },
+  {
+    "w": "striking",
+    "p": "adj.",
+    "m": "Very noticeable, unusual, or impressive.",
+    "c": ["striking contrast", "striking finding"],
+    "r": "conversation · public · academic",
+    "e": "The most striking result was the difference between neighboring districts."
+  },
+  {
+    "w": "unsettling",
+    "p": "adj.",
+    "m": "Making someone feel uneasy or uncertain.",
+    "c": ["unsettling pattern", "unsettling possibility"],
+    "r": "conversation · public",
+    "e": "The data reveal an unsettling pattern of repeated loss."
+  },
+  {
+    "w": "fleeting",
+    "p": "adj.",
+    "m": "Lasting only a short time.",
+    "c": ["fleeting moment", "fleeting attention"],
+    "r": "conversation · public · GRE",
+    "e": "Public attention can be intense but fleeting."
+  },
+  {
+    "w": "ubiquitous",
+    "p": "adj.",
+    "m": "Present or found almost everywhere.",
+    "c": ["ubiquitous technology", "seemingly ubiquitous"],
+    "r": "public · academic · GRE",
+    "e": "Smartphones are now ubiquitous in many forms of field research."
+  },
+  {
+    "w": "equivocal",
+    "p": "adj.",
+    "m": "Uncertain, ambiguous, or open to more than one interpretation.",
+    "c": ["equivocal evidence", "equivocal response"],
+    "r": "public · academic · GRE",
+    "e": "The evidence remains equivocal."
+  },
+  {
+    "w": "anomalous",
+    "p": "adj.",
+    "m": "Different from what is normal or expected.",
+    "c": ["anomalous result", "anomalous pattern"],
+    "r": "academic · GRE",
+    "e": "One district showed an anomalous recovery pattern."
+  },
+  {
+    "w": "warranted",
+    "p": "adj.",
+    "m": "Justified by the evidence or circumstances.",
+    "c": ["warranted concern", "warranted conclusion"],
+    "r": "public · academic",
+    "e": "Caution is warranted when interpreting the small sample."
+  },
+  {
+    "w": "enduring",
+    "p": "adj.",
+    "m": "Continuing for a long time.",
+    "c": ["enduring effect", "enduring legacy"],
+    "r": "public · academic",
+    "e": "The disaster left an enduring mark on local institutions."
+  },
+  {
+    "w": "incremental",
+    "p": "adj.",
+    "m": "Happening through small steps rather than sudden change.",
+    "c": ["incremental change", "incremental reform"],
+    "r": "public · academic",
+    "e": "Institutional learning is often incremental."
+  },
+  {
+    "w": "intractable",
+    "p": "adj.",
+    "m": "Very difficult to solve or change.",
+    "c": ["intractable problem", "seemingly intractable"],
+    "r": "public · academic · GRE",
+    "e": "Land disputes can become intractable after displacement."
+  },
+  {
+    "w": "marginal",
+    "p": "adj.",
+    "m": "Small, limited, or at the edge of importance or inclusion.",
+    "c": ["marginal effect", "marginal improvement"],
+    "r": "public · academic",
+    "e": "The intervention produced only a marginal improvement."
+  },
+  {
+    "w": "robust",
+    "p": "adj.",
+    "m": "Strong, reliable, and able to withstand scrutiny.",
+    "c": ["robust evidence", "robust method"],
+    "r": "public · academic",
+    "e": "The conclusion requires more robust evidence."
+  },
+  {
+    "w": "scrutinize",
+    "p": "verb",
+    "m": "To examine something very carefully.",
+    "c": ["scrutinize evidence", "closely scrutinize"],
+    "r": "public · academic · GRE",
+    "e": "Reviewers are likely to scrutinize the causal claim."
+  },
+  {
+    "w": "deliberate",
+    "p": "adj.",
+    "m": "Careful and intentional rather than accidental or rushed.",
+    "c": ["deliberate choice", "deliberate process"],
+    "r": "conversation · public · academic",
+    "e": "The shift in strategy was deliberate."
+  },
+  {
+    "w": "coherent",
+    "p": "adj.",
+    "m": "Logical, consistent, and easy to follow.",
+    "c": ["coherent argument", "coherent framework"],
+    "r": "public · academic",
+    "e": "The paper needs a more coherent explanation of its contribution."
+  },
+  {
+    "w": "consequential",
+    "p": "adj.",
+    "m": "Having important effects or results.",
+    "c": ["consequential decision", "highly consequential"],
+    "r": "public · academic",
+    "e": "Small administrative choices can be consequential for households."
+  },
+  {
+    "w": "provisional",
+    "p": "adj.",
+    "m": "Temporary or subject to revision when more evidence appears.",
+    "c": ["provisional conclusion", "provisional estimate"],
+    "r": "public · academic",
+    "e": "The finding should be treated as provisional."
+  }
+]
